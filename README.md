@@ -10,7 +10,7 @@ Before using this program, ensure you have the following:
 
 - An NVIDIA Jetson device (Jetson Nano, Jetson Xavier, etc.).
 - A camera connected to your Jetson device.
-- Python 3.x installed on your Jetson.
+- Python 3 installed on your Jetson.
 - Required Python packages, which can be installed using `pip`:
   - `serial` for UART communication
   - `cv2` (OpenCV) for video capture
